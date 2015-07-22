@@ -14,7 +14,7 @@ author: "Dan Simmons",
 description: "Sci Fi.",
 amazon_id: "0553283685",
 rating: 5,
-finished_on: 10.day.ago
+finished_on: 2.days.ago
 },
 {
 title: "Jony Ive: The Genius Behind Apple's Greatest Products", 
